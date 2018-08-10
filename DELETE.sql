@@ -1,0 +1,1 @@
+DELETE FROM `pizzeria`.`commande` WHERE `commande`.`temps_ecoule`>30;
